@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NavtexPositionParser.Base",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NavtexPositionParser.Test", "NavtexPositionParser.Test\NavtexPositionParser.Test.csproj", "{1F2D830F-A398-4E12-9FC6-1DE97769354E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavtexParserAPI", "NavtexParserAPI\NavtexParserAPI.csproj", "{BD8176B4-AA42-4BC8-987B-3CBC51518714}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1F2D830F-A398-4E12-9FC6-1DE97769354E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F2D830F-A398-4E12-9FC6-1DE97769354E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F2D830F-A398-4E12-9FC6-1DE97769354E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD8176B4-AA42-4BC8-987B-3CBC51518714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8176B4-AA42-4BC8-987B-3CBC51518714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8176B4-AA42-4BC8-987B-3CBC51518714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8176B4-AA42-4BC8-987B-3CBC51518714}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
